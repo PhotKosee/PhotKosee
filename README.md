@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my journey
+
+Here's my [Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [✨](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Fun fact](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--
 **PhotKosee/PhotKosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

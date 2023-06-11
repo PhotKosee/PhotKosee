@@ -1,6 +1,6 @@
 ### Welcome to my journey
 
-Here's my [Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [✨](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Here's my [Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [✨](https://www.youtube.com/watch?v=dQw4w9WgXcQ) </b>
 [Fun fact](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--

@@ -1,4 +1,4 @@
-![Cover Banner](cover.jpg)
+![Cover Banner](cover.png)
 # Welcome to my journey
 
 Here's my [Portfolio](https://www.youtube.com/watch?v=qFLhGq0060w) [✨](https://www.youtube.com/watch?v=qFLhGq0060w) <br>

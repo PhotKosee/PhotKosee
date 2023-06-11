@@ -1,6 +1,7 @@
-### Welcome to my journey
+![Cover Banner](cover.jpg)
+# Welcome to my journey
 
-Here's my [Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) [✨](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
+Here's my [Portfolio](https://www.youtube.com/watch?v=qFLhGq0060w) [✨](https://www.youtube.com/watch?v=qFLhGq0060w) <br>
 [Fun fact](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--

@@ -1,20 +1,11 @@
 [![Cover Banner](cover.png)](https://www.youtube.com/watch?v=7wtfhZwyrcc)
 # Welcome to my journey
 
-Here's my [Portfolio](https://www.youtube.com/watch?v=qFLhGq0060w) [✨](https://www.youtube.com/watch?v=qFLhGq0060w) <br>
+Here's my [Portfolio](https://www.youtube.com/watch?v=qFLhGq0060w) [📑](https://www.youtube.com/watch?v=qFLhGq0060w)
+
+<details>
+<summary>Coding?</summary>
+  
+> I used to do [leetcode](https://leetcode.com/peachkosee/), but **only focusing on [hackerrank](https://www.hackerrank.com/kosee_phot?hr_r=1) [👈](https://www.hackerrank.com/kosee_phot?hr_r=1) from now** <br>
 [Fun fact](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-<!--
-**PhotKosee/PhotKosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</detail>

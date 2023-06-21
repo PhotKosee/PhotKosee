@@ -6,6 +6,6 @@
 <details>
 <summary>Coding?</summary>
 
-<br>I used to do [leetcode](https://leetcode.com/peachkosee/), but going to **focuse only on [hackerrank](https://www.hackerrank.com/kosee_phot?hr_r=1) [👈](https://www.hackerrank.com/kosee_phot?hr_r=1) from now** <br>
+<br>Sometimes I do **[leetcode](https://leetcode.com/peachkosee/) [🏆](https://leetcode.com/peachkosee/)**, sometimes I do **[hackerrank](https://www.hackerrank.com/kosee_phot?hr_r=1) [👈](https://www.hackerrank.com/kosee_phot?hr_r=1)** <br>
 > [Fun fact](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 </detail>

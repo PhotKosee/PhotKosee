@@ -1,7 +1,7 @@
 [![cover](cover.png)](https://www.youtube.com/watch?v=7wtfhZwyrcc)
 # Welcome to my journey
 
-Here's my **[Portfolio](https://www.youtube.com/watch?v=qFLhGq0060w) [🌐](https://www.youtube.com/watch?v=qFLhGq0060w)**
+Here's my **[Portfolio](https://www.youtube.com/watch?v=qFLhGq0060w) [🌐](https://www.youtube.com/watch?v=qFLhGq0060w)** (working on it)
 
 <details>
 <summary>👾 Coding?</summary>

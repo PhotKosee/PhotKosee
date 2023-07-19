@@ -1,7 +1,7 @@
-[![cover](cover.png)](https://www.youtube.com/watch?v=7wtfhZwyrcc)
+[![cover](cover.png)](https://photkosee.github.io/profile-react)
 # Welcome to my journey
 
-Here's my **[Portfolio](https://www.youtube.com/watch?v=qFLhGq0060w) [🌐](https://www.youtube.com/watch?v=qFLhGq0060w)** (working on it)
+Here's my **[Portfolio](https://photkosee.github.io/profile-react) [🌐](https://photkosee.github.io/profile-react/)**
 
 <details>
 <summary>👾 Coding?</summary>

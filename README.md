@@ -33,11 +33,6 @@ Check out my **[Profile Website](https://photkosee.github.io/profile-react) [ðŸŒ
 	<img width="45" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 </div>
 
-## Infrastructure:
-<div>
-	<img width="45" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/>
-</div>
-
 ## Version Control:
 <div>
   	<img width="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>

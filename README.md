@@ -1,4 +1,3 @@
-[![cover](cover.png)](https://photkosee.github.io/profile-react)
 # Welcome to my journey
 
 Check out my **[Profile Website](https://photkosee.github.io/profile-react) [🌐](https://photkosee.github.io/profile-react/)**

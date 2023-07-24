@@ -32,6 +32,11 @@ Check out my **[Profile Website](https://photkosee.github.io/profile-react) [ðŸŒ
 	<img width="37" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 </div>
 
+## Database:
+<div>
+	<code><img width="37" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+</div>
+
 ## Version Control:
 <div>
   	<img width="37" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>

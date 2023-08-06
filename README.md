@@ -1,4 +1,4 @@
-# Welcome to my journey
+# Welcome to my journey as a Full Stack Developer
 
 Check out my **[Profile Website](https://photkosee.github.io/profile-react) [🌍](https://photkosee.github.io/profile-react/)**
 

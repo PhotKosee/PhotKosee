@@ -30,7 +30,7 @@ Check out my **[Profile Website](https://photkosee.github.io/profile-react) [ðŸŒ
 ### Framework:
 <div>
 	<img width="35" src="https://user-images.githubusercontent.com/114990364/258935367-5e56d0dc-dff2-4fe8-817f-2616bcef6dae.svg" alt="TailwindCSS" title="TailwindCSS"/>
-	<img width="25" src="https://user-images.githubusercontent.com/114990364/258928511-8f4c034c-ae59-4fc4-bb63-952296c0bca4.png" alt="Express" title="Express"/>
+	express  
 </div>
 
 ### Database:

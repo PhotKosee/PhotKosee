@@ -12,42 +12,41 @@ Check out my **[Profile Website](https://photkosee.github.io/profile-react) [ðŸŒ
 
 ### Front End:
 <div>
-  	<img width="35" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+  	<img width="35" src="https://user-images.githubusercontent.com/114990364/258922212-4dc033ac-0768-44ff-8c56-11c3632f87a5.png" alt="React" title="React"/>
+	<img width="35" src="https://user-images.githubusercontent.com/114990364/258922115-78a787af-54f0-4eda-b361-e554e793445f.png" alt="HTML" title="HTML"/>
+	<img width="35" src="https://user-images.githubusercontent.com/114990364/258921181-6c86beef-f4b9-4326-bff2-47f77a826a9a.png" alt="CSS" title="CSS"/>
+	<img width="35" src="https://user-images.githubusercontent.com/114990364/258922164-de503512-c3c0-44a3-98b5-423f5eb834b6.png" alt="JavaScript" title="JavaScript"/>
+	<img width="35" src="https://user-images.githubusercontent.com/114990364/258922224-4ae03a2c-bb2d-4649-bb05-b8ea257022b4.png" alt="TypeScript" title="TypeScript"/>
 </div>
 
 ### Back End:
 <div>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
+	<img width="50" src="https://user-images.githubusercontent.com/114990364/258923342-45d06105-790c-4bdf-8844-dc4cacfa01a7.png" alt="Node.js" title="Node.js"/>
+	<img width="50" src="https://user-images.githubusercontent.com/114990364/258922146-323286ca-11c6-4e41-b3a5-33fee9c028bd.png" alt="Java" title="Java"/>
+	<img width="30" src="https://user-images.githubusercontent.com/114990364/258930506-fe5e1508-351c-49b4-9195-031d2145cfe0.png" alt="Python" title="Python"/>
+	<img width="35" src="https://user-images.githubusercontent.com/114990364/258919242-1de74de4-f8bf-426c-9829-e9fc9a7aad97.png" alt="C" title="C"/>
 </div>
 
 ### Framework:
 <div>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+	<img width="35" src="https://user-images.githubusercontent.com/114990364/258935367-5e56d0dc-dff2-4fe8-817f-2616bcef6dae.svg" alt="TailwindCSS" title="TailwindCSS"/>
+	<img width="25" src="https://user-images.githubusercontent.com/114990364/258928511-8f4c034c-ae59-4fc4-bb63-952296c0bca4.png" alt="Express" title="Express"/>
 </div>
 
 ### Database:
 <div>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+	<img width="70" src="https://user-images.githubusercontent.com/114990364/258935736-e9b91d97-ce4b-4365-bd44-d83ecc5b2de7.svg" alt="MongoDB" title="MongoDB"/>
+	<img width="50" src="https://user-images.githubusercontent.com/114990364/258934016-815f3b6c-23ea-4d3f-9692-47c593357359.png" alt="MySQL" title="MySQL"/>
 </div>
 
 ### Version Control:
 <div>
-	<img width="35" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="GitHub"/>
-  	<img width="35" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
-  	<img width="35" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/>
+	<img width="35" src="https://user-images.githubusercontent.com/114990364/258942684-a25e3d56-a08a-4489-b9e9-d0989864f55b.png" alt="Git" title="Git"/>
+  	<img width="35" src="https://user-images.githubusercontent.com/114990364/258921815-4eaaa4e2-474b-4c1a-8753-231154d257eb.png" alt="GitHub" title="GitHub"/>
+  	<img width="35" src="https://user-images.githubusercontent.com/114990364/258922055-01dd905d-0b45-4bfb-bb71-01d7852c392d.png" alt="GitLab" title="GitLab"/>
 </div>
 
 ### CI/CD:
 <div>
-  	<img width="35" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/>
+  	<img width="35" src="https://user-images.githubusercontent.com/114990364/258922055-01dd905d-0b45-4bfb-bb71-01d7852c392d.png" alt="GitLab" title="GitLab"/>
 </div>

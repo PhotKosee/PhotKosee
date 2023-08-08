@@ -43,7 +43,7 @@ My sights are set on becoming a versatile full-stack developer, although I’m o
 ### Database:
 <div>
 	<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
-	<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"/>
+	<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
 </div>
 
 ### Version Control:

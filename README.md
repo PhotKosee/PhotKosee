@@ -10,6 +10,13 @@ Check out my **[Profile Website](https://photkosee.github.io/profile-react) [�
 
 </details>
 
+## About me
+
+Enthusiastic and adaptable 22-year-old Computer Engineering student at UNSW, currently in my penultimate year. My academic journey, which began in Electrical Engineering at Thammasat University, has fueled my passion for technology and problem-solving, leading to my decision to transfer to Computer Engineering.
+
+My sights are set on becoming a versatile full-stack developer, although I’m open to honing my skills in either back-end or front-end development first. Eager to embrace new challenges and learn unfamiliar stacks, I’m excited to bring my enthusiasm and dedication to crafting innovative solutions in software development.
+
+## Technical Skills
 ### Front End:
 <div>
   	<img width="35" src="https://user-images.githubusercontent.com/114990364/258922212-4dc033ac-0768-44ff-8c56-11c3632f87a5.png" alt="React" title="React"/>

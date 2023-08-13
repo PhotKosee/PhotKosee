@@ -48,6 +48,12 @@ My sights are set on becoming a versatile full-stack developer, although I’m o
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL"/>
 </div>
 
+### Infrastructure:
+<div>
+	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" title="Docker"/>
+	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernates" title="Kubernates"/>
+</div>
+
 ### Version Control:
 <div>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" title="Git"/>

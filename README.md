@@ -51,7 +51,8 @@ My sights are set on becoming a versatile full-stack developer, although I’m o
 ### Infrastructure:
 <div>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" title="Docker"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernates" title="Kubernates"/>
+	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" title="Kubernetes"/>
+	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenShift.svg" alt="OpenShift" title="OpenShift"/>
 </div>
 
 ### Version Control:

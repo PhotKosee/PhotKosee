@@ -37,6 +37,7 @@ My sights are set on becoming a versatile full-stack developer, although I’m o
 <div>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" title="TailwindCSS"/>
+	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" title="Next.js"/>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" title="Express"/>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" title="Flask"/>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" title="Django"/>

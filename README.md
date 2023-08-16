@@ -1,6 +1,6 @@
 # Welcome to my journey &nbsp;<img width="45" src="https://github.com/PhotKosee/PhotKosee/assets/114990364/2b51ca02-1590-464d-adfd-28754855d2a4" alt="stack" title="stack"/>
 
-Check out my **[Profile Website](https://photkosee.github.io/profile-react) [🌍](https://photkosee.github.io/profile-react/)**
+Check out my **[Portfolio Website](https://photkosee.github.io/profile-react) [🌍](https://photkosee.github.io/profile-react/)**
 
 <details>
 <summary>👾 Coding?</summary>

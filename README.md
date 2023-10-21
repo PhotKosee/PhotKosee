@@ -9,7 +9,7 @@ Sometimes I do **[LeetCode](https://leetcode.com/peachkosee/)**, sometimes I do 
 
 ## About me 
 
-My sights are set on becoming a versatile full-stack developer, although I’m open to honing my skills in either back-end or front-end development first. Eager to embrace new challenges and learn unfamiliar stacks, I’m excited to bring my enthusiasm and dedication to crafting innovative solutions in software development.
+I bring a strong background in web development complemented by a growing passion for data analysis. This unique blend of skills allows me to approach challenges with a fresh perspective, seeking insights and optimizing performance.
 
 ## Technical Skills
 <div>

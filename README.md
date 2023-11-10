@@ -1,10 +1,11 @@
 # Welcome to my journey
-> Check out my **[Portfolio Website](https://photkosee.github.io/profile-react) [🌍](https://photkosee.github.io/profile-react/)**
+> I've started writing blog posts on my static site. You can visit **[my blog](https://photkosee.github.io/blog/) [📚](https://photkosee.github.io/blog/)** <br>
+> Also check out my **[portfolio website](https://photkosee.github.io/profile-react) [🌍](https://photkosee.github.io/profile-react/)**
 
 <details>
 <summary>👾 Coding?</summary>
 
-Sometimes I do **[LeetCode](https://leetcode.com/peachkosee/)**, sometimes I do **[HackerRank](https://www.hackerrank.com/kosee_phot?hr_r=1)** <br>
+More often I do **[LeetCode](https://leetcode.com/peachkosee/)**, but sometimes I also do **[HackerRank](https://www.hackerrank.com/kosee_phot?hr_r=1)** <br>
 </details>
 
 ## About me 

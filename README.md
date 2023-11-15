@@ -32,13 +32,11 @@ I bring a strong background in web development complemented by a growing passion
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" title="Express"/>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" title="Flask"/>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" title="Django"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" title="MongoDB"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL"/>
+	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
 <div>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" title="Docker"/>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" title="Kubernetes"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenShift.svg" alt="OpenShift" title="OpenShift"/>
 	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" title="Git"/>
   	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub"/>
   	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitLab" title="GitLab"/>

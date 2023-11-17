@@ -1,6 +1,6 @@
 # Welcome to my journey
-> I've started writing blog posts on my static site. You can visit **[my blog](https://photkosee.github.io/blog/) [📚](https://photkosee.github.io/blog/)** <br>
-> Also check out my **[portfolio website](https://photkosee.github.io/profile-react) [🌍](https://photkosee.github.io/profile-react/)**
+> Check out my **[portfolio website](https://photkosee.github.io/profile-react) [🌍](https://photkosee.github.io/profile-react/)** <br>
+> Also, I've started writing blog posts on my static site. You can visit **[my blog](https://photkosee.github.io/blog/) [📚](https://photkosee.github.io/blog/)**
 
 <details>
 <summary>👾 Coding?</summary>

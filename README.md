@@ -1,43 +1,39 @@
-# Welcome to my journey
-> Check out my **[portfolio website](https://photkosee.github.io/profile-react) [🌍](https://photkosee.github.io/profile-react/)** <br>
-> Also, I've started writing blog posts on my static site. You can visit **[my blog](https://photkosee.github.io/blog/) [📚](https://photkosee.github.io/blog/)**
+### Hi there, I'm Phot 👋,
+A Software Developer🎯 studying at the University of New South Wales.
 
-<details>
-<summary>👾 Coding?</summary>
+- 🌍 Check out my [Portfolio Website](https://photkosee.github.io/profile-react)
+- 📚 I've started writing blog posts on my static site. Check out my [Blog Website](https://photkosee.github.io/blog/)
+- 👾 Coding: More often I do [LeetCode](https://leetcode.com/peachkosee/), but sometimes I also do [HackerRank](https://www.hackerrank.com/kosee_phot?hr_r=1)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phot-kosee/) - [Phot Koseekrainiramon](https://www.linkedin.com/in/phot-kosee/)
+- 🌱 I'm exploring new ventures and mastering existing skills through diverse projects
 
-More often I do **[LeetCode](https://leetcode.com/peachkosee/)**, but sometimes I also do **[HackerRank](https://www.hackerrank.com/kosee_phot?hr_r=1)** <br>
-</details>
-
-## About me 
-
-I bring a strong background in web development complemented by a growing passion for data analysis. This unique blend of skills allows me to approach challenges with a fresh perspective, seeking insights and optimizing performance.
-
-## Technical Skills
+**Tools:**  
 <div>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" title="React" />
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" title="HTML"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" title="CSS"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" title="TailwindCSS"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" title="Next.js"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" title="React" />
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" title="HTML"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" title="CSS"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" title="TailwindCSS"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" title="Next.js"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" title="Node.js"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" title="Java"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" title="Python"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" title="C"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" title="Express"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" title="Flask"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" title="Django"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" title="Git"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitLab" title="GitLab"/>
 </div>
 
-<div>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" title="Node.js"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" title="Java"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" title="Python"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" title="C"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" title="Express"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" title="Flask"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" title="Django"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL"/>
-</div>
-<div>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" title="Docker"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" title="Kubernetes"/>
-	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" title="Git"/>
-  	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub"/>
-  	<img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitLab" title="GitLab"/>
+![](https://komarev.com/ghpvc/?username=photkosee)
+
+### 🤝🏻 Connect with Me
+<div align="center">
+	<a href="https://www.linkedin.com/in/phot-kosee/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Phot%20Koseekrainiramon-blue?style=flat-square&logo=linkedin"></a>
+	<a href="mailto:kosee.phot@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kosee.phot@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </div>

@@ -1,4 +1,4 @@
-### Hi there, I'm Phot 👋,
+### Hi there, I'm Phot 👋 People also call me Pete/Peach,
 A Software Developer🎯 studying at the University of New South Wales.
 
 - 🌍 Check out my [Portfolio Website](https://photkosee.github.io/profile-react)

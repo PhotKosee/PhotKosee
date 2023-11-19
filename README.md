@@ -1,8 +1,8 @@
 ### Hi there, I'm Phot 👋,
 A Software Developer🎯 studying at the University of New South Wales.
 
-- 🌍 Check out my [Portfolio Website](https://photkosee.github.io/profile-react)
-- 📚 I've started writing blog posts on my static site. Check out my [Blog Website](https://photkosee.github.io/blog/)
+- 🌍 Check out my [Portfolio Website](https://photkosee.github.io/react-portfolio)
+- 📚 I've started writing blog posts on my static site. Check out my [Blog Website](https://photkosee.github.io/hugo-blog/)
 - 👾 Coding: More often I do [LeetCode](https://leetcode.com/peachkosee/), but sometimes I also do [HackerRank](https://www.hackerrank.com/kosee_phot?hr_r=1)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phot-kosee/) - [Phot Koseekrainiramon](https://www.linkedin.com/in/phot-kosee/)
 - 🌱 I'm exploring new ventures and mastering existing skills through diverse projects

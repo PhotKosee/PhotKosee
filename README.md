@@ -15,6 +15,7 @@ A Full Stack Developer🎯 studying at the University of New South Wales.
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MUI" title="MUI"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" title="TailwindCSS"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" title="Next.js"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" title="Node.js"/>
@@ -22,8 +23,7 @@ A Full Stack Developer🎯 studying at the University of New South Wales.
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" title="Python"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" title="C"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express" title="Express"/>
-	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" title="Flask"/>
-	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" title="Django"/>
+	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" title="MongoDB"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" title="Git"/>
 	<img width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub"/>

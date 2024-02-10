@@ -1,11 +1,10 @@
 ### Hi there, my name is Phot 👋 People also call me Pete/Peach,
-A Full Stack Developer🎯 studying at the University of New South Wales.
+A Software Engineer🎯 studying at the University of New South Wales.
 
 - 🌍 Check out my [Portfolio Website (2nd Edition)](https://photkosee.github.io/next-portfolio/)
-- 📚 I've started writing blog posts on my static site. Check out my [Blog Website](https://photkosee.github.io/hugo-blog/)
 - 👾 Sometimes I do [HackerRank](https://www.hackerrank.com/kosee_phot?hr_r=1), but more often I do [LeetCode](https://leetcode.com/peachkosee/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phot-kosee/) - [Phot Koseekrainiramon](https://www.linkedin.com/in/phot-kosee/)
-- 🌱 I'm exploring new ventures and mastering existing skills through diverse projects
+- 🌱 Currently, I'm exploring Google Cloud Platform (GCP) and Machine Learning Operations (MLOps) with Vertex AI for my final year thesis
 
 **Tools:**  
 <div>

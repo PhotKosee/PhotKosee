@@ -1,7 +1,7 @@
 ### Hi there, my name is Phot 👋 People also call me Pete/Peach,
 A Software Engineer🎯 studying at the University of New South Wales.
 
-- 🌍 Check out my [Portfolio Website (2nd Edition)](https://photkosee.github.io/next-portfolio/)
+- 🌍 Check out my [Portfolio Website](https://photkosee.github.io/next-portfolio/) to explore my projects
 - 👾 Sometimes I do [HackerRank](https://www.hackerrank.com/kosee_phot?hr_r=1), but more often I do [LeetCode](https://leetcode.com/peachkosee/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phot-kosee/) - [Phot Koseekrainiramon](https://www.linkedin.com/in/phot-kosee/)
 - 🌱 Currently, I'm exploring Google Cloud Platform (GCP) and Machine Learning Operations (MLOps) with Vertex AI for my final year thesis

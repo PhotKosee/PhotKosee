@@ -14,4 +14,4 @@
 - 🚀 **CSESoc x DevSoc Flagship Hackathon 2024**
 
 ## 🤝🏻 Connect with Me
-- ☑️ <a href="https://www.linkedin.com/in/photkosee/">**LinkedIn**</a>
+- 📫 <a href="https://www.linkedin.com/in/photkosee/">**LinkedIn**</a>

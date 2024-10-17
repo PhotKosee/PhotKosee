@@ -1,15 +1,17 @@
-### Hi there, my name is Phot 👋 People also call me Pete/Peach,
-A Computer Engineering student 🎯 at the University of New South Wales.
-
-- 🌍 Check out my [Portfolio Website](https://photkosee.vercel.app/) to explore my side projects
-
 <!---
-![](https://komarev.com/ghpvc/?username=photkosee)
--->
+<img src="https://komarev.com/ghpvc/?username=photkosee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
+--->
 
+## 👋 About Me:
+- 🙋‍♂️ My name is Phot Koseekrainiramon, but people also call me Pete or Peach.
+- 🎓 I am a final-year Computer Engineering student at the University of New South Wales, Sydney.
+- 💼 A few years of experience in programming, specializing in full-stack development with a passion for frontend.
+- 🖥️ Proficient in JavaScript and TypeScript, with a strong focus on web development.
+- 🌐 Built and launched several side projects featured on my [**Portfolio Website**](https://photkosee.vercel.app).
 
-### 🤝🏻 Connect with Me
-<div align="center">
-	<a href="https://www.linkedin.com/in/photkosee/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Phot%20Koseekrainiramon-blue?style=flat-square&logo=linkedin"></a>
-	<a href="mailto:phot.kosee@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-phot.kosee@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</div>
+## 🎖️ Achievements:
+- 🥇 **Winner** of the **UNSW College Hackathon 2024**
+- 🚀 **CSESoc x DevSoc Flagship Hackathon 2024**
+
+## 🤝🏻 Connect with Me
+- ☑️ <a href="https://www.linkedin.com/in/photkosee/">**LinkedIn**</a>

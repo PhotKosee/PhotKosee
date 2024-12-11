@@ -3,10 +3,10 @@
 --->
 
 ## 👋 About Me:
-- 🙋‍♂️ My name is Phot Koseekrainiramon, but people also call me Pete or Peach.
-- 🎓 Computer Engineering (Honours) graduate from the University of New South Wales, Australia.
-- 🎓 Electrical Engineering graduate from Thammasat University, Thailand.
-- 💼 Over 3 years of experience in programming, specializing in full-stack development with a passion for frontend.
+- 🙋‍♂️ My name is **Phot Koseekrainiramon**, but people also call me Pete or Peach.
+- 🎓 Computer Engineering (Honours) graduate from the **University of New South Wales**, Australia.
+- 🎓 Electrical Engineering graduate from **Thammasat University**, Thailand.
+- 💼 Over 3 years of experience in programming, specializing in **full-stack** development with a passion for frontend.
 - 🌐 Built and launched several side projects featured on my [**Portfolio Website**](https://photkosee.vercel.app).
 
 ## 🎖️ Achievements:
